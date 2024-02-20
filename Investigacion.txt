@@ -1,0 +1,38 @@
+¿Qué es una maquina de estados?
+
+Una máquina de estados (también conocida como máquina de estados finitos) es 
+una representación de un sistema reactivo basado en eventos. Esta máquina 
+transita de un estado a otro cuando se cumple la condición que controla el 
+cambio. Aunque originalmente se utilizaban para describir sistemas 
+informáticos, su aplicación se ha expandido para modelar la lógica compleja de 
+sistemas dinámicos, como aeronaves, automóviles, robots y teléfonos móviles.
+
+Algunos ejemplos de operaciones que involucran lógica compleja son:
+
+    -Planificación de secuencias de tareas o pasos para un sistema.
+    -Definición de lógica de recuperación, aislamiento y detección de fallos.
+    -Supervisión de los modos de funcionamiento y cómo cambiar entre ellos.
+
+
+
+¿Cómo implementarlo en un videojuego?
+
+Una máquina de estado finito es un modelo utilizado para representar y controlar 
+el flujo de ejecución. 
+Es perfecto para implementar AI en juegos, produciendo excelentes resultados 
+sin un código complejo. 
+
+En otras palabras, podria implementarse a manera del comportamiento de un NPC,
+dando como resultados ciertas acciones que se cumplan despues de completar
+otras acciones (o eventos) y repetir ese ciclo.
+
+
+
+Bibliografias
+
+State Machine (máquina de estados). (s. f.). MATLAB & Simulink. 
+https://la.mathworks.com/discovery/state-machine.html
+
+Bevilacqua, F. (2013, 24 octubre). Máquinas de estados finitos: teoría e 
+implementación. Code Envato Tuts+. 
+https://code.tutsplus.com/es/maquinas-de-estados-finitos-teoria-e-implementacion--gamedev-11867t
