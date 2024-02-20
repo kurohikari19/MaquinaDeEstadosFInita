@@ -15,6 +15,7 @@ Algunos ejemplos de operaciones que involucran lógica compleja son:
 
 
 
+
 ¿Cómo implementarlo en un videojuego?
 
 Una máquina de estado finito es un modelo utilizado para representar y controlar 
@@ -28,11 +29,12 @@ otras acciones (o eventos) y repetir ese ciclo.
 
 
 
+
 Bibliografias
 
 State Machine (máquina de estados). (s. f.). MATLAB & Simulink. 
 https://la.mathworks.com/discovery/state-machine.html
 
 Bevilacqua, F. (2013, 24 octubre). Máquinas de estados finitos: teoría e 
-implementación. Code Envato Tuts+. 
+implementación. Code Envato Tuts+.
 https://code.tutsplus.com/es/maquinas-de-estados-finitos-teoria-e-implementacion--gamedev-11867t
